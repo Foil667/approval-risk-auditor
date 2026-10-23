@@ -1,0 +1,1 @@
+{"$schema":"https://openapi.vercel.sh/vercel.json","functions":{"api/audit.js":{"maxDuration":60,"memory":1024}}}
